@@ -1,2 +1,3 @@
 # ImageJ-Macro_Diet_Area_BrilliantBlue_HoneyDew
 Image J macro for the automated analysis of brilliant blue (BB) colored honey dew droplets as a result of aphid feeding on BB diets. 
+NOTE: for analysis you should always be sure that the global scale is set to the correct number. For my purposes I was using small baseball stands with a particular area. To set scale, I drew a 1cm line onto the filter paper that I scanned in the xerox scanner. I used this 1cm line to set my scale for all my other filter papers. Be sure that if you crop/convert, that you are not compressing or changing the pixel number/ratio as this will mess up the scaling. 
